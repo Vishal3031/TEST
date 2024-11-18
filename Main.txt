@@ -1,4 +1,8 @@
 inside main text
 
+<<<<<<< HEAD
 
 inside person_2 text (first)
+=======
+inside person_1 text (first)
+>>>>>>> 02f16857b3ffe8b0e7a8ff027f922a8b6480215d
